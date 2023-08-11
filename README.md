@@ -6,8 +6,7 @@ This project aims to build a Steam game recommendation system using content-base
 
 - Content-based recommendation: Analyzes game tags, descriptions, and genres to suggest similar games.
 - Limited data: Uses data from 2021 to 2023 for recent game releases.
-- GitHub repository: The project code and resources can be found in the [GitHub repository]([https://github.com/yourusername/steam-game-recommendation](https://github.com/Ashishprasa/Steam-Game-Recommendation-System)).
-
+  
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/yourusername/steam-game-recommendation.git`
