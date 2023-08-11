@@ -22,7 +22,7 @@ def recommend(game):
     distances = sorted(list(enumerate(similarity[index])),reverse=True,key = lambda x: x[1])
     game_lists=[]
     game_image_list=[]
-    for i in distances[0:7]:
+    for i in distances[1:7]:
         game_lists.append(new_df.iloc[i[0]].Name)
         game_image_list.append(game_image.iloc[i[0]].Headerimage)
     return game_lists,game_image_list
