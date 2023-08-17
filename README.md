@@ -9,14 +9,14 @@ This project aims to build a Steam game recommendation system using content-base
   
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/steam-game-recommendation.git`
+1. Clone the repository: `git clone https://github.com/Ashishprasa/Steam-Game-Recommendation-System.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Afte all the installation go to clone repo terminal and run `streamlit run app.py` 
 
 ## Usage
 
 1. Ensure you have the required data in the specified format (tags, descriptions, genres).
-2. Run the recommendation script: `python recommend.py`
+2. Run the recommendation script: `python app.py`
 3. Input user preferences.
 4. Receive personalized game recommendations.
 
