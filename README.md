@@ -18,7 +18,7 @@ This project aims to build a Steam game recommendation system using content-base
 ## Usage
 
 1. Ensure you have the required data in the specified format (tags, descriptions, genres).
-2. Run the recommendation script: `python app.py`
+2. Run the recommendation script: `streamlit run app.py`
 3. Input user preferences.
 4. Receive personalized game recommendations.
 
