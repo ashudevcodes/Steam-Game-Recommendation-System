@@ -1,5 +1,7 @@
 # Steam Game Recommendation System
 
+https://github.com/user-attachments/assets/ae766122-af48-4b77-937c-17437cfb41a9
+
 This project aims to build a Steam game recommendation system using content-based suggestions. It analyzes game tags, descriptions, and genres to provide personalized recommendations to users. The system focuses on games released between 2021 and 2023.
 
 ## Features
