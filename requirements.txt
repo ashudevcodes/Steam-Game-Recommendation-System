@@ -1,6 +1,22 @@
-pandas
-pickle
-streamlit
-numpy
-nltk
-sklearn
+# Core dependencies
+streamlit==1.29.0
+pandas==2.1.4
+numpy==1.26.2
+
+# Machine Learning
+scikit-learn==1.3.2
+scipy==1.11.4
+
+# NLP
+nltk==3.8.1
+
+# Utilities
+tqdm==4.66.1
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Optional: For advanced features
+# faiss-cpu==1.7.4  # For approximate nearest neighbors
+# redis==5.0.1      # For caching layer
